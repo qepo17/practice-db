@@ -1,7 +1,7 @@
 package seeder
 
 const (
-	numOfInserteddata = 900000
+	numOfInserteddata = 1000000
 	batchInsertSize   = 1000
 )
 
